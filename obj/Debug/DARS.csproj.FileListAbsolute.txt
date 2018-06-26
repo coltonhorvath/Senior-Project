@@ -1,0 +1,300 @@
+c:\users\colto\source\repos\DARS\DARS\bin\Debug\DARS.exe.config
+c:\users\colto\source\repos\DARS\DARS\bin\Debug\DARS.exe
+c:\users\colto\source\repos\DARS\DARS\bin\Debug\DARS.pdb
+c:\users\colto\source\repos\DARS\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\colto\source\repos\DARS\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+c:\users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Home.resources
+c:\users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Login.resources
+c:\users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Properties.Resources.resources
+c:\users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Register.resources
+c:\users\colto\source\repos\DARS\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+c:\users\colto\source\repos\DARS\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+c:\users\colto\source\repos\DARS\DARS\obj\Debug\DARS.exe
+c:\users\colto\source\repos\DARS\DARS\obj\Debug\DARS.pdb
+c:\users\colto\source\repos\DARS\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+C:\Users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Register_MainInfo.resources
+C:\Users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Register_OralComm.resources
+C:\Users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Register_English.resources
+C:\Users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+C:\Users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Register_NatSci.resources
+C:\Users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+C:\Users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Register_Humanities.resources
+C:\Users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Register_PhysEd.resources
+C:\Users\colto\source\repos\DARS\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.1.5\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.1.5\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.1.5\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.1.5\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.1.5\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.1.5\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.2.1\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.2.1\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.2.1\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.2.1\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.2.1\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.2.1\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.2.2\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.2.5\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.2.5\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.2.5\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.2.5\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.2.5\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.2.5\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.2.6\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.2.6\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.2.6\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.2.6\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.2.6\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.2.6\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.2.6 - Copy (2)\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.1\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.3.1\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.1\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.1\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.3.1\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.1\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.3\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.3.3\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.3\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.3\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.3.3\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.3\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.6\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.6\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.3.6\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.6\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.6\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.3.6\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.3.7\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.3.7\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.7\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.7\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.3.7\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Advisor_Home.resources
+D:\C#\Version Control\DARS\V.0.3.7\DARS\obj\Debug\DARS.Advisor_Login.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.3.8\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.8\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.8\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.3.8\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Advisor_Home.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Advisor_Login.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.8\DARS\obj\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.9\DARS\bin\Debug\DARS.exe.config
+D:\C#\Version Control\DARS\V.0.3.9\DARS\bin\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.9\DARS\bin\Debug\DARS.pdb
+D:\C#\Version Control\DARS\V.0.3.9\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\C#\Version Control\DARS\V.0.3.9\DARS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.csprojResolveAssemblyReference.cache
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Advisor_Home.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Advisor_Login.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Home.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Login.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Properties.Resources.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Register.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Register_AreaStudies.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Register_English.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Register_Humanities.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Register_MainInfo.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Register_Mathmatics.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Register_NatSci.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Register_OralComm.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Register_PhysEd.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.Register_SocSci.resources
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.csproj.GenerateResource.Cache
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.csproj.CoreCompileInputs.cache
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.exe
+D:\C#\Version Control\DARS\V.0.3.9\DARS\obj\Debug\DARS.pdb
